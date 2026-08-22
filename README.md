@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React 19" />
     <img src="https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 8" />
     <img src="https://img.shields.io/badge/Supabase-Backend-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-    <img src="https://img.shields.io/badge/TanStack_Query-Server_State-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+    <img src="https://img.shields.io/badge/TanStack_Query-Server_State-ECE8D1?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack Query" />
   </p>
 
-  **[Live Demo — coming soon](#deployment)** · **[Guest Website — in development](#roadmap)**
+  **[Live Demo](https://the-wild-oasis-vert-psi.vercel.app)** · **[Guest Website — in development](#roadmap)**
 </div>
 
 ---
