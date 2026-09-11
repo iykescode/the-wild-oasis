@@ -18,8 +18,8 @@
 
   ### Demo Login
 
-  Email: demo@example.com
-  Password: demo-password
+  Email: demo@email.com
+  Password: password
   
   Feel free to explore the dashboard, bookings, cabins, and other features.
   </div>
