@@ -15,7 +15,14 @@
   </p>
 
   **[Live Demo](https://the-wild-oasis-vert-psi.vercel.app)** · **[Guest Website — in development](#roadmap)**
-</div>
+
+  ### Demo Login
+
+  Email: demo@example.com
+  Password: demo-password
+  
+  Feel free to explore the dashboard, bookings, cabins, and other features.
+  </div>
 
 ---
 
@@ -26,7 +33,6 @@ The Wild Oasis is a private, staff-facing hotel management application. It bring
 The application uses **Supabase** for its database, authentication, and file storage, while **TanStack Query** manages remote state, caching, mutations, and cache invalidation in the client.
 
 > This repository contains the **hotel operations dashboard**. A separate guest-facing frontend for browsing cabins and making reservations is planned.
-> Login details: michael@example.com | password
 
 ## Highlights
 
